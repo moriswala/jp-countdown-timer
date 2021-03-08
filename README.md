@@ -1,4 +1,4 @@
-# Put title of your app here
+# Week #2: Countdown timer
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -6,12 +6,11 @@
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+3.. 2.. 1.. Lift off! Create a single screen working countdown timer and learn all about state in Compose.
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+This project is intended for lerning the state management in android jetpack-compose. I submitted this project in #AndroidDevChallenge(Week #2)
 
 
 ## :camera_flash: Screenshots
